@@ -62,10 +62,10 @@
                                 Sistema de pagos</a
 							>
 						
-								<div class="sb-sidenav-menu-heading">Interface</div>
+								<div class="sb-sidenav-menu-heading">Opciones</div>
 								<a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts"
 								><div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
-									Layouts
+									Administrar
 									<div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div
 									></a>
 									<div class="collapse" id="collapseLayouts" aria-labelledby="headingOne" data-parent="#sidenavAccordion">
@@ -73,13 +73,13 @@
 									</div>
 									<a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="false" aria-controls="collapsePages"
 									><div class="sb-nav-link-icon"><i class="fas fa-book-open"></i></div>
-										Pages
+										Reportes
 										<div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div
 										></a>
 										<div class="collapse" id="collapsePages" aria-labelledby="headingTwo" data-parent="#sidenavAccordion">
 											<nav class="sb-sidenav-menu-nested nav accordion" id="sidenavAccordionPages">
 												<a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#pagesCollapseAuth" aria-expanded="false" aria-controls="pagesCollapseAuth"
-												>Authentication
+												>Reportes PDF
 													<div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div
 													></a>
 					
@@ -87,7 +87,7 @@
 							<div class="sb-sidenav-menu-heading">Estadistica</div>
 							<a class="nav-link" href="charts.html"
 							><div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
-								Charts</a
+								Graficas</a
 								><a class="nav-link" href="tabla.php"
 								><div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
 									Tablas</a
